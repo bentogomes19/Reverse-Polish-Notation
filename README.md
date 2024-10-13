@@ -18,6 +18,8 @@ This program don't calculate the expression.
 ***OBS: Can exists more than a solution, for example,   a+b+c can be writed like abc++ or ab + c +*** 
 
 Operation
+
+
 \[
 \frac{a \cdot b - c \cdot d}{e \cdot f}
 \]
